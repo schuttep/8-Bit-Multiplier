@@ -1,4 +1,5 @@
 SystemVerilog Class Projects
+
 Welcome to the SystemVerilog Class Projects repository! This repository contains a collection of projects and assignments completed as part of a course on SystemVerilog(Digital Systems Laboratory). Each project is designed to explore different aspects of hardware design and digital logic, with an emphasis on SystemVerilog as the hardware description language.
 
 Introduction
